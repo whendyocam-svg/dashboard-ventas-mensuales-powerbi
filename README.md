@@ -142,6 +142,13 @@ Principios aplicados:
 ![Dashboard General](imagenes/dashboard_portafolio.png)
 ![KPIs](imagenes/KPIS.png)
 
+El dashboard incluye cuatro KPIs clave para el análisis ejecutivo:
+
+- **Ventas Totales**: ventas del periodo seleccionado.
+- **Ventas YTD**: acumulado anual.
+- **Ventas Mes Anterior**: referencia para comparación temporal.
+- **Variación Mensual (%)**: cambio porcentual vs mes anterior.
+
 
 ##  Insights que puede obtener el negocio
 
