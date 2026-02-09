@@ -1,4 +1,11 @@
 # dashboard-ventas-mensuales-powerbi
+powerbi  
+business-intelligence  
+sql  
+dax  
+dashboard  
+analytics
+
 # Dashboard de Ventas Mensuales – Power BI
 
 ## Contexto del negocio
