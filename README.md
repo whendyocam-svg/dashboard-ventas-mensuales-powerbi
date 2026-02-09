@@ -1,5 +1,5 @@
 # dashboard-ventas-mensuales-powerbi
-# 📊 Dashboard de Ventas Mensuales – Power BI
+# Dashboard de Ventas Mensuales – Power BI
 
 ## Contexto del negocio
 
@@ -117,7 +117,7 @@ TOTALYTD(
 
 ---
 
-## 🎨 Diseño del dashboard
+## Diseño del dashboard
 
 Principios aplicados:
 
@@ -137,8 +137,10 @@ Principios aplicados:
 
 ##  Capturas del reporte
 
-## 📷 Capturas del dashboard
+## Capturas del dashboard
 
+![Dashboard General](imagenes/dashboard_portafolio.png)
+![KPIs](imagenes/KPIS.png)
 
 
 ##  Insights que puede obtener el negocio
