@@ -1,4 +1,4 @@
-# dashboard-Desempeño_Comercial_PowerBI
+# Dashboard-Desempeño_Comercial_PowerBI
 powerbi  
 business-intelligence  
 sql  
@@ -29,7 +29,7 @@ El modelo se construyó siguiendo buenas prácticas de **modelo estrella**.
 
 ### Tablas principales
 
-* **vw_ventas_mensuales (vista SQL)**
+* **vw_ventas_mensua (vista SQL)**
 
   * Contiene las ventas agregadas a nivel mensual.
   * Incluye métricas como ventas del mes y variación respecto al mes anterior.
@@ -146,8 +146,10 @@ Principios aplicados:
 
 ## Capturas del dashboard
 
-![Dashboard General](imagenes/dashboard_portafolio.png)
-![KPIs](imagenes/KPIS.png)
+![Dashboard General](imagenes/Dashboard_DesempeñoComercial.png)
+![KPIs](imagenes/KPIS_DesempeñoComercial.png)
+![ModeloDatos](imagenes/MODELO_DesempeñoComercial.png)
+
 
 El dashboard incluye cuatro KPIs clave para el análisis ejecutivo:
 
