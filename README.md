@@ -1,4 +1,4 @@
-# dashboard-ventas-mensuales-powerbi
+# dashboard-Desempeño_Comercial_PowerBI
 powerbi  
 business-intelligence  
 sql  
@@ -6,7 +6,7 @@ dax
 dashboard  
 analytics
 
-# Dashboard de Ventas Mensuales – Power BI
+# Dashboard  Desempeño Comercial (2020 - 2024) – Power BI
 
 ## Contexto del negocio
 
