@@ -54,6 +54,6 @@ El diseño permite análisis dinámico por año, mes, cliente, segmento y catego
 
 ## Capturas del dashboard
 
-![Dashboard General](imagenes/Dashboard_DesempeñoComercial.png)
+![Dashboard General](imagenes/REPORTE_VENTAS.png)
 
 
